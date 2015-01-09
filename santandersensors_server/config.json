@@ -1,0 +1,16 @@
+{
+    "IP":"130.0.20.10",
+    "username":"root",
+    "password":"mongounime",
+    "userdatabase":"admin",
+    "maindatabase":"sensors",
+    "maincollection":"santa",
+    "typecollection":"type",
+    "discardcollection":"discard",
+    "tagscollection":"tags",
+    "lastdatacollection":"supp",
+    "URL":"http://maps.smartsantander.eu/getdata.php",
+    "lapse":1800,
+    "port":8888,
+    "bind_IP":"127.0.0.1"
+}

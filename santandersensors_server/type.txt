@@ -1,0 +1,2 @@
+db.type.insert({"type":["Speed","Altitude","CO","Temperature","Battery level","Humidity","Relative humidity","Soil Moisture","Atmospheric Pressure","Noise","Luminosity"]})
+db.info.insert({"tags":["agriculture","irrigation","light","noise","temp","BUS","env_station"]})
